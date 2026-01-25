@@ -1,4 +1,4 @@
-# Aritra Mukherjee
+# Aritra Mukherjee, Ph.D.
 
 Postdoctoral Fellow, NTNU  
 Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
@@ -9,13 +9,17 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 
 ## Skills
 
-**CFD & Numerics:** OpenFOAM, LBM, FDM, FVM, turbulence modeling  
-**Programming:** C, C++, Fortran, Python  
-**HPC:** MPI, OpenMP, CUDA, OpenACC  
-**Machine Learning:** TensorFlow, surrogate modeling
+**Programming Languages:** C++, Python (NumPy, Pandas, Matplotlib, TensorFlow), FORTRAN
+**High-Performance Computing:** MPI, OpenMP, OpenACC
+**Data & Visualization:** ParaView, Tecplot, QGIS
+**Software & Workflow:** GitHub, Linux, Makefiles
+**Open-Source CFD Software:** FLuTAS, CANS, OpenFOAM, WRF-SFIRE
+**Numerical Methods:** Finite Volume Method, Finite Difference Method, Lattice Boltzmann Method, PDE-based modelling 
+**Machine Learning:** Data driven predictive modelling , Deep Learning based surrogate modelling  
+
+
 
 ## Contact
 
-- Email: your.email@ntnu.no
-- LinkedIn: link
-- GitHub: link
+- Email: ammaritra@gmail.com, aritra.mukherjee@ntnu.no
+- LinkedIn: [link](https://www.linkedin.com/in/aritra-mukherjee-35268b214/)
