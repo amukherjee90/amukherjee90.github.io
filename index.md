@@ -1,4 +1,3 @@
-# Aritra Mukherjee, Ph.D.
 
 Postdoctoral Fellow, NTNU  
 Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
