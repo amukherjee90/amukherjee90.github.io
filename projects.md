@@ -2,6 +2,56 @@
 
 ## **Projects**
 
+---
+title: Projects
+layout: default
+---
+
+# Projects
+
+
+---
+
+## Multiphase CFD Simulations
+
+**Multiphase flow modelling with LBM/FVM**  
+- Developed numerical solvers for multiphase and thermal flows  
+- Simulated phase-changing processes in complex geometries  
+![Multiphase CFD GIF](assets/multiphase.gif){: style="max-width:100%; height:auto; display:block; margin-top:10px;" }
+
+---
+
+## Thermal Flow Modelling
+
+**Heat and mass transfer in multiphase systems**  
+- Applied FDM and FVM for thermal-fluid simulations  
+- Analyzed thermal transport and interfacial phenomena  
+![Thermal Flow GIF](assets/thermal.gif){: style="max-width:100%; height:auto; display:block; margin-top:10px;" }
+
+---
+
+## HPC & Solver Optimization
+
+**Parallel computing and solver acceleration**  
+- Implemented MPI, OpenMP, and GPU-based solvers for large simulations  
+- Optimized computation for faster turnaround on multiphase problems  
+![HPC Solver GIF](assets/hpc.gif){: style="max-width:100%; height:auto; display:block; margin-top:10px;" }
+
+---
+
+## Data-Driven Surrogate Modelling
+
+**Neural network-based acceleration of CFD**
+
+
+
+
+
+
+
+
+
+
 ### **Non-Fourier Heat Conduction and radiation**
 
 ### **Development of a Multiphase Lattice Boltzmann Solver to Explore Boiling and Condensation processes**
