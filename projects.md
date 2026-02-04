@@ -48,7 +48,7 @@
   <div style="flex:1; min-width:250px; padding-right:20px;">
     <ul>
       <li>Contributed to the OpenACC-GPU parallelized phase-field LB multiphase solver accLB</li>
-      <li>Simulated scalar transfer from mulitple bubbles for industrial gas transfer applications</li>
+      <li>Captured all bubble shapes seperately for a bubble rise problem </li>
       <li>Studied multiple droplets faliing  on a surface with different wettability</li>
       <li>Implementing phase-change to the solver </li>
     </ul>
@@ -57,9 +57,9 @@
   <!-- Image column -->
   <div style="flex:1; min-width:250px;">
     <figure>
-      <img src="assets/film_boil(1).gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+      <img src="assets/bubble_rise.jpeg" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
       <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
-        Film boiling from a plain surface
+        Different bubble shapes with Eotvos and Galilei number
       </figcaption>
     </figure>
   </div>
