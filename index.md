@@ -3,7 +3,7 @@
 ### Postdoctoral Fellow, NTNU  
 Numerical Modelling · Computational Fluid Dynamics · Multiphase Flow
 
-## **About**
+## **About me**
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
 
@@ -29,25 +29,7 @@ Alongside CFD work, I am currently exploring hybrid physics–machine-learning a
 
 </div>
 
-<div style="text-align: left; margin-top: 40px;">
 
-<a href="skills.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #00000EE;">
-👉 Skills
-</a>
-
-<a href="projects.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #00000EE;">
-👉 Projects
-</a>
-
-<a href="publications.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #00000EE;">
-👉 Publications
-</a>
-
-<a href="contact.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #00000EE;">
-👉 Contact
-</a>
-
-</div>
 
 
 
