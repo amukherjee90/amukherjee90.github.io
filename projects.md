@@ -12,14 +12,13 @@
 </p>
 
 <h3 style="margin-top:40px; margin-bottom:15px; font-size:20px;">
-  Multiphase Lattice Boltzmann Solver for Phase-Change on Structured Surfaces
+  Multiphase Lattice Boltzmann Solver Development for Phase-Change on Structured Surfaces
 </h3>
 
 
 <div style="display:flex; flex-wrap:wrap; margin-bottom:40px; align-items:flex-start;">
   <!-- Text column -->
   <div style="flex:1; min-width:250px; padding-right:20px;">
-    <h3>Development of a Multiphase Lattice Boltzmann Solver to Simulate Phase-Change on Structures Surfaces</h3>
     <ul>
       <li>Developed key components of multiphase flow solver</li>
       <li>Simulated phase-change phenomena with LBM</li>
