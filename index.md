@@ -16,12 +16,20 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 - **Numerical Methods:** Finite Volume Method, Finite Difference Method, Lattice Boltzmann Method, PDE-based modelling  
 - **Machine Learning:** Data-driven predictive modelling, Deep Learning-based surrogate modelling
 
+## Projects
 
-## Film Boiling
+### Non-Fourier Heat Conduction and radiation 
+
+### Development of a Multiphase Lattice Boltzmann Solver to Explore Boiling and Condensation processes
+
+### Validation and testing of the WRF-SFIRE framework for real-time wildfire spread 
+
+### Development of a Finite difference–based Diffused Interface phase-change solver
 ![Boiling Simulation](assets/film_boil(1).gif)
-
-## Multiple evaporating droplet 
+### DNS studies of phase-changing flows with multiple droplet/bubble in turbulent suspensions
 ![Boiling Simulation](assets/12drop.gif)
+
+### Development of accLB, a Multiphase Lattice Boltzmann solver parallelized using CUDA/OpenACC and MPI.
 
 ## Publications
 
