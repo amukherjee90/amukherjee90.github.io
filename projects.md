@@ -14,7 +14,7 @@
 <div style="display:flex; flex-wrap:wrap; margin-bottom:40px; align-items:flex-start;">
   <!-- Text column -->
   <div style="flex:1; min-width:250px; padding-right:20px;">
-    <h3>Multiphase CFD Simulations</h3>
+    <h3>Development of a Multiphase Lattice Boltzmann Solver to Simulate Phase-Change on Structures Surfaces</h3>
     <ul>
       <li>Developed key components of multiphase flow solver</li>
       <li>Simulated phase-change phenomena with LBM</li>
