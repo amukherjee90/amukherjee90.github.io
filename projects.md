@@ -39,6 +39,34 @@
 </div>
 
 <h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
+  Development of a LB Diffused Interface solver for multiphase flow
+</h3>
+
+
+<div style="display:flex; flex-wrap:wrap; margin-bottom:40px; align-items:flex-start;">
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px; padding-right:20px;">
+    <ul>
+      <li>Contributed to the OpenACC-GPU parallelized phase-field LB multiphase solver accLB</li>
+      <li>Simulated scalar transfer from mulitple bubbles for industrial gas transfer applications</li>
+      <li>Studied multiple droplets faliing  on a surface with different wettability</li>
+      <li>Implementing phase-change to the solver </li>
+    </ul>
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:1; min-width:250px;">
+    <figure>
+      <img src="assets/film_boil(1).gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+      <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
+        Film boiling from a plain surface
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+
+<h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
   Multiphase Lattice Boltzmann Solver Development for Phase-Change on Structured Surfaces
 </h3>
 
