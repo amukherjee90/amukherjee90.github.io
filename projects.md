@@ -1,9 +1,9 @@
 [Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Skills](skills.html) | [Contact](contact.html)
 
-## **Projects**
+
 
 ---
-title: Projects
+title: 
 layout: default
 ---
 
@@ -17,7 +17,7 @@ layout: default
 **Multiphase flow modelling with LBM/FVM**  
 - Developed numerical solvers for multiphase and thermal flows  
 - Simulated phase-changing processes in complex geometries  
-![Multiphase CFD GIF](assets/multiphase.gif){: style="max-width:100%; height:auto; display:block; margin-top:10px;" }
+![Multiphase CFD GIF](assets/12drop.gif){: style="max-width:100%; height:auto; display:block; margin-top:10px;" }
 
 ---
 
