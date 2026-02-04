@@ -13,11 +13,13 @@ Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
 
   <!-- Text column -->
   <div style="flex: 1; min-width: 260px;">
+  <p style="text-align: justify;">
   I am a computational engineer with a background in CFD, multiphase flow modelling, and numerical solver development. My experience includes simulations of complex thermal and multiphase flows with phase change and turbulent transport, using finite volume, finite difference, and lattice Boltzmann methods.
 
 I work primarily with C/C++, Fortran, and Python, and have experience developing and running parallel CFD solvers in high-performance computing environments (MPI, OpenMP, GPU acceleration). I am interested in building efficient simulation workflows and applying advanced numerical models in practical engineering and industrial contexts.
 
 Alongside applied CFD work, I am currently exploring hybrid physics–machine-learning approaches as an ongoing effort to improve computational efficiency in simulation workflows.
+</p>
   </div>
 
   <!-- Image column -->
