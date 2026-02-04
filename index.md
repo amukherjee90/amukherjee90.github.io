@@ -21,6 +21,32 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 </div>
 
 
+### Multiphase Boiling Simulation (PhD)
+
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+
+  <!-- Text column -->
+  <div style="flex: 1; min-width: 260px;">
+    - Numerical simulation of pool boiling and evaporation  
+    - Methods: Lattice Boltzmann Method (LBM), Finite Volume Method (FVM)  
+    - Focus on interfacial heat and mass transfer  
+    - Post-processing and visualization using ParaView  
+  </div>
+
+  <!-- Image column -->
+  <div style="max-width: 420px; width: 100%;">
+    <img src="assets/12drop.gif"
+         alt="Bubble dynamics during pool boiling"
+         style="width: 100%; border-radius: 6px;">
+    <p style="font-size: 0.85em; color: #555; margin-top: 6px;">
+      Bubble growth and coalescence during pool boiling
+    </p>
+  </div>
+
+</div>
+
+
+
 
 👉 [Publications](publications.html)  
 👉 [Projects](projects.html) 
