@@ -17,7 +17,9 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 <div style="flex: 1;">
 <img src="assets/film_boil(1).gif" alt="Boiling simulation" width="400">
 </div>
-
+I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
+  I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
+  I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
 </div>
 
 
@@ -27,10 +29,7 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 
   <!-- Text column -->
   <div style="flex: 1; min-width: 260px;">
-    - Numerical simulation of pool boiling and evaporation  
-    - Methods: Lattice Boltzmann Method (LBM), Finite Volume Method (FVM)  
-    - Focus on interfacial heat and mass transfer  
-    - Post-processing and visualization using ParaView  
+  
   </div>
 
   <!-- Image column -->
