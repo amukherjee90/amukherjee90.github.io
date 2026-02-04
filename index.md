@@ -8,13 +8,8 @@ Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
 
 I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
 
-## About
-
-Postdoctoral Fellow at NTNU working on CFD, multiphase flows, and numerical modeling.
-
-
 👉 [Publications](publications.html)  
-
+👉 [Projects](projects.html) 
 
 
 ## **Skills**
