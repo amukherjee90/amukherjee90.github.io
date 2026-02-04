@@ -21,7 +21,7 @@
   <div style="flex:1; min-width:250px; padding-right:20px;">
     <ul>
       <li>Developed OpenMP parallelized phase-changing LB multiphase solver</li>
-      <li>Augmented the existing algorithm to simulate high density ratio phase -change problems</li>
+      <li>Augmented the existing algorithm to simulate high density ratio problems, simulated all boiling regimes to plot the whole boiling curve on plain and structured surfaces with different wettability</li>
       <li>Simulated flow boiling in a narrow channel - captured bubbly and slug flow regimes</li>
       <li>Simulated condensation in micro/nano structured surfaces - captured Cassie and Wenzel droplet generation modes</li>
     </ul>
@@ -32,7 +32,7 @@
     <figure>
       <img src="assets/boiling_curve.png" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
       <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
-        Boiling curve in plain(red) and structured(green) surfaces
+        Boiling curve in surfacs with different wettability
       </figcaption>
     </figure>
   </div>
