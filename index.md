@@ -17,11 +17,11 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 - **Machine Learning:** Data-driven predictive modelling, Deep Learning-based surrogate modelling
 
 
-### Multiphase Boiling Simulation (PhD)
-- Simulated pool boiling and evaporation using Lattice Boltzmann Method and Finite Volume Method.
-- Explored interfacial mass transfer and phase change.
-- Visualized bubble dynamics with ParaView.  
+## Film Boiling
 ![Boiling Simulation](assets/film_boil(1).gif)
+
+## Multiple evaporating droplet 
+![Boiling Simulation](assets/12drop.gif)
 
 ## Publications
 
