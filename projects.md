@@ -20,8 +20,9 @@
   <!-- Text column -->
   <div style="flex:1; min-width:250px; padding-right:20px;">
     <ul>
-      <li>Developed key components of multiphase flow solver</li>
-      <li>Simulated phase-change phenomena with LBM</li>
+      <li>Developed OpenMP parallelized phase-changing LB multiphase solver</li>
+      <li>Simulated Boiling and condensation on plain and structured surfaces</li>
+      <li>Captured all boiling regimes and reproduced the boiling curve</li>
     </ul>
   </div>
 
@@ -30,7 +31,7 @@
     <figure>
       <img src="assets/12drop.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
       <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
-        Multiphase CFD simulation — LBM solver
+        Boiling curve in plain(red) and structured(green) surfaces
       </figcaption>
     </figure>
   </div>
