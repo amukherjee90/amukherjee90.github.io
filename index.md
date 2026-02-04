@@ -28,29 +28,26 @@ Alongside CFD work, I am currently exploring hybrid physics–machine-learning a
 
 </div>
 
-👉 [Skills](skills.html) 
-👉 [Projects](projects.html) 
-👉 [Publications](publications.html) 
+<div style="text-align: left; margin-top: 40px;">
 
-<div style="text-align: center; margin-top: 40px;">
-
-<a href="skills_education.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
-👉 Skills & Education
+<a href="skills.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: none; color: #000;">
+👉 Skills
 </a>
 
-<a href="projects.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+<a href="projects.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: none; color: #000;">
 👉 Projects
 </a>
 
-<a href="publications.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+<a href="publications.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: none; color: #000;">
 👉 Publications
 </a>
 
-<a href="contact.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+<a href="contact.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: none; color: #000;">
 👉 Contact
 </a>
 
 </div>
+
 
 ## **Contact**
 
