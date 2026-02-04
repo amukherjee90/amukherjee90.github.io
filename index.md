@@ -19,7 +19,7 @@ Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
   </div>
 
   <!-- Image column -->
-  <div style="max-width: 420px; width: 100%;">
+  <div style="max-width: 200px; width: 100%;">
     <img src="assets/Aritra Mukherjee_10102025_by Maren Agdestein_NTNU (20 of 1)(1).jpg"
          style="width: 100%; border-radius: 6px;">
     <p style="font-size: 0.85em; color: #555; margin-top: 6px;">
