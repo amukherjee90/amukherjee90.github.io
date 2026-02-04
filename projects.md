@@ -1,9 +1,11 @@
 [Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Skills](skills.html) | [Contact](contact.html)
 
 
+<!-- Page Title -->
+<h1 style="font-size:28px; font-weight:bold; margin-bottom:20px;">
+  Projects
+</h1>
 
-
-<h1>Projects</h1>
 
 <p style="margin-bottom:20px;">
   Interested in my work? Check my <a href="skills_education.html">Skills & Education</a> or <a href="contact.html">Contact me</a> to discuss potential collaboration.
