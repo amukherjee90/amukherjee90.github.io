@@ -29,7 +29,9 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 
   <!-- Text column -->
   <div style="flex: 1; min-width: 260px;">
-  
+  I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
+  I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
+  I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
   </div>
 
   <!-- Image column -->
