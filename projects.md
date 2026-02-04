@@ -21,8 +21,9 @@
   <div style="flex:1; min-width:250px; padding-right:20px;">
     <ul>
       <li>Developed OpenMP parallelized phase-changing LB multiphase solver</li>
-      <li>Simulated Boiling and condensation on plain and structured surfaces</li>
-      <li>Captured all boiling regimes and reproduced the boiling curve</li>
+      <li>Augmented the existing algorithm to simulate high density ratio phase -change problems</li>
+      <li>Simulated flow boiling in a narrow channel - captured bubbly and slug flow regimes</li>
+      <li>Simulated condensation in micro/nano structured surfaces - captured Cassie and Wenzel droplet generation modes</li>
     </ul>
   </div>
 
