@@ -1,3 +1,4 @@
+[Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Skills](skills.html) | [Contact](contact.html)
 
 
 - Email: ammaritra@gmail.com,
