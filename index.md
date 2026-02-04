@@ -6,7 +6,7 @@ Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
 
 I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
 
-## Skills
+## **Skills**
 
 - **Programming Languages:** C++, Python (NumPy, Pandas, Matplotlib, TensorFlow), FORTRAN  
 - **High-Performance Computing:** MPI, OpenMP, OpenACC  
@@ -16,22 +16,22 @@ I am a computational scientist with a background in multiphase flow modeling, nu
 - **Numerical Methods:** Finite Volume Method, Finite Difference Method, Lattice Boltzmann Method, PDE-based modelling  
 - **Machine Learning:** Data-driven predictive modelling, Deep Learning-based surrogate modelling
 
-## Projects
+## **Projects**
 
-### Non-Fourier Heat Conduction and radiation 
+### **Non-Fourier Heat Conduction and radiation**
 
-### Development of a Multiphase Lattice Boltzmann Solver to Explore Boiling and Condensation processes
+### **Development of a Multiphase Lattice Boltzmann Solver to Explore Boiling and Condensation processes**
 
-### Validation and testing of the WRF-SFIRE framework for real-time wildfire spread 
+### **Validation and testing of the WRF-SFIRE framework for real-time wildfire spread** 
 
-### Development of a Finite difference–based Diffused Interface phase-change solver
+### **Development of a Finite difference–based Diffused Interface phase-change solver**
 ![Boiling Simulation](assets/film_boil(1).gif)
-### DNS studies of phase-changing flows with multiple droplet/bubble in turbulent suspensions
+### **DNS studies of phase-changing flows with multiple droplet/bubble in turbulent suspensions**
 ![Boiling Simulation](assets/12drop.gif)
 
-### Development of accLB, a Multiphase Lattice Boltzmann solver parallelized using CUDA/OpenACC and MPI.
+### **Development of accLB, a Multiphase Lattice Boltzmann solver parallelized using CUDA/OpenACC and MPI**
 
-## Publications
+## **Publications**
 
 1. S. C Mishra, N Gullipalli, A Jain, A Barurah, A. Mukherjee, Analysis of hyperbolic heat conduction in 1-D planar,
 cylindrical, and spherical geometry using the lattice Boltzmann method, **International Communications in Heat and
@@ -76,7 +76,7 @@ bubbly flows (Under review, Journal of Fluid Mechanics)
 in turbulent suspension (in preparation)
 
 
-## Contact
+## **Contact**
 
 - Email: ammaritra@gmail.com, aritra.mukherjee@ntnu.no
 - LinkedIn: [link](https://www.linkedin.com/in/aritra-mukherjee-35268b214/)
