@@ -1,37 +1,9 @@
-Skills & Tools
-<div style="text-align: justify;">
-Programming & Scripting
+## **Skills**
 
-C++, Python (NumPy, Pandas, Matplotlib, TensorFlow), Fortran
-
-Writing modular, maintainable code for CFD solvers and simulation pipelines
-
-High-Performance Computing
-
-MPI, OpenMP, CUDA, OpenACC
-
-Parallelization of CFD solvers and running large-scale simulations
-
-CFD / Simulation Software
-
-OpenFOAM, FLuTAS, CANS, WRF-SFIRE
-
-Development, modification, and application of solvers for multiphase and thermal flows
-
-Numerical Methods
-
-Finite Volume Method (FVM)
-
-Finite Difference Method (FDM)
-
-Lattice Boltzmann Method (LBM)
-
-PDE-based modelling for multiphysics simulations
-
-Data-Driven & Machine Learning
-
-Surrogate modelling for thermodynamic relations
-
-Deep learning-based acceleration of CFD workflows
-
-</div>
+- **Programming Languages:** C++, Python (NumPy, Pandas, Matplotlib, TensorFlow), FORTRAN  
+- **High-Performance Computing:** MPI, OpenMP, OpenACC  
+- **Data & Visualization:** ParaView, Tecplot, QGIS  
+- **Software & Workflow:** GitHub, Linux, Makefiles  
+- **Open-Source CFD Software:** FLuTAS, CANS, OpenFOAM, WRF-SFIRE  
+- **Numerical Methods:** Finite Volume Method, Finite Difference Method, Lattice Boltzmann Method, PDE-based modelling  
+- **Machine Learning:** Data-driven predictive modelling, Deep Learning-based surrogate modelling
