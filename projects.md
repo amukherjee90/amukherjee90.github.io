@@ -11,19 +11,24 @@
   Interested in my work? Check my <a href="skills_education.html">Skills & Education</a> or <a href="contact.html">Contact me</a> to discuss potential collaboration.
 </p>
 
-<!-- Project 1 -->
 <div style="display:flex; flex-wrap:wrap; margin-bottom:40px; align-items:flex-start;">
+  <!-- Text column -->
   <div style="flex:1; min-width:250px; padding-right:20px;">
     <h3>Multiphase CFD Simulations</h3>
     <ul>
-      <li>Developed numerical solvers for multiphase and thermal flows</li>
-      <li>Simulated phase-changing processes in complex geometries</li>
+      <li>Developed key components of multiphase flow solver</li>
+      <li>Simulated phase-change phenomena with LBM</li>
     </ul>
   </div>
+
+  <!-- Image column -->
   <div style="flex:1; min-width:250px;">
-    <img src="assets/12drop.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
-     <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
+    <figure>
+      <img src="assets/multiphase.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+      <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
         Multiphase CFD simulation — LBM solver
+      </figcaption>
+    </figure>
   </div>
 </div>
 
