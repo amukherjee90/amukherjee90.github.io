@@ -1,6 +1,5 @@
 [Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Contact](contact.html)
 
-## **Projects**
 
 ### **Non-Fourier Heat Conduction and radiation**
 
