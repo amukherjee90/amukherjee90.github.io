@@ -28,10 +28,9 @@ Alongside CFD work, I am currently exploring hybrid physics–machine-learning a
 
 </div>
 
-
-👉 [Publications](publications.html)  
+👉 [Skills](skills.html) 
 👉 [Projects](projects.html) 
-
+👉 [Publications](publications.html) 
 
 
 ## **Contact**
