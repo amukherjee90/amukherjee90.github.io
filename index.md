@@ -1,4 +1,4 @@
-[Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Contact](contact.html)
+[Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Skills](skills.html)
 ### Postdoctoral Fellow, NTNU  
 Numerical Modelling · Computational Fluid Dynamics · Multiphase Flow
 
