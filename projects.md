@@ -21,7 +21,7 @@
     </ul>
   </div>
   <div style="flex:1; min-width:250px;">
-    <img src="assets/multiphase.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+    <img src="assets/12drop.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
   </div>
 </div>
 
