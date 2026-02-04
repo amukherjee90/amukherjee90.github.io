@@ -1,4 +1,4 @@
-[Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Skills](skills.html)
+[Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Skills](skills.html) | [Contact](contact.html)
 
 - **Programming Languages:** C++, Python (NumPy, Pandas, Matplotlib, TensorFlow), FORTRAN  
 - **High-Performance Computing:** MPI, OpenMP, OpenACC  
