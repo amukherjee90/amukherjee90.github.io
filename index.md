@@ -1,13 +1,7 @@
 [Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Contact](contact.html)
 
 
-Postdoctoral Fellow, NTNU  
-Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
-
 ## **About**
-
-
-### Multiphase Boiling Simulation (PhD)
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
 
@@ -18,7 +12,7 @@ Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
 
 I work primarily with C/C++, Fortran, and Python, and have experience developing and running parallel CFD solvers in high-performance computing environments (MPI, OpenMP, GPU acceleration). I am interested in building efficient simulation workflows and applying advanced numerical models in practical engineering and industrial contexts.
 
-Alongside applied CFD work, I am currently exploring hybrid physics–machine-learning approaches as an ongoing effort to improve computational efficiency in simulation workflows.
+Alongside CFD work, I am currently exploring hybrid physics–machine-learning approaches as an ongoing effort to improve computational efficiency in simulation workflows.
 </p>
   </div>
 
@@ -35,11 +29,6 @@ Alongside applied CFD work, I am currently exploring hybrid physics–machine-le
 
 
 
-
-👉 [Publications](publications.html)  
-👉 [Projects](projects.html) 
-
-
 ## **Skills**
 
 - **Programming Languages:** C++, Python (NumPy, Pandas, Matplotlib, TensorFlow), FORTRAN  
@@ -49,6 +38,11 @@ Alongside applied CFD work, I am currently exploring hybrid physics–machine-le
 - **Open-Source CFD Software:** FLuTAS, CANS, OpenFOAM, WRF-SFIRE  
 - **Numerical Methods:** Finite Volume Method, Finite Difference Method, Lattice Boltzmann Method, PDE-based modelling  
 - **Machine Learning:** Data-driven predictive modelling, Deep Learning-based surrogate modelling
+
+
+👉 [Publications](publications.html)  
+👉 [Projects](projects.html) 
+
 
 
 ## **Contact**
