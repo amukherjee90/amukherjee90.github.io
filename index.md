@@ -6,7 +6,19 @@ Computational Fluid Dynamics · Multiphase Flow · Numerical Modeling
 
 ## **About**
 
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="flex: 1;">
 I am a computational scientist with a background in multiphase flow modeling, numerical solver development, and high-performance computing. My work focuses on bridging physics-based modeling with efficient simulation tools and exploring hybrid physics–machine learning approaches.
+</div>
+
+<div style="flex: 1;">
+<img src="assets/film_boil(1).gif" alt="Boiling simulation" width="400">
+</div>
+
+</div>
+
+
 
 👉 [Publications](publications.html)  
 👉 [Projects](projects.html) 
