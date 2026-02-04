@@ -16,3 +16,22 @@
 ### **Development of accLB, a Multiphase Lattice Boltzmann solver parallelized using CUDA/OpenACC and MPI**
 
 
+### Multiphase Boiling Simulation (PhD)
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="flex: 1;">
+- Multiphase boiling and evaporation simulation  
+- LBM / FVM based solver  
+- Focus on interfacial heat and mass transfer  
+- Post-processing using ParaView
+</div>
+
+<div style="flex: 1;">
+<img src="assets/film_boil(1).gif" alt="Boiling simulation" width="400">
+</div>
+
+</div>
+
+
+
