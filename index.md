@@ -30,11 +30,11 @@ Alongside CFD work, I am currently exploring hybrid physics–machine-learning a
 
 <div style="text-align: left; margin-top: 40px;">
 
-<a href="skills.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #0000EE;">
+<a href="skills.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #00000EE;">
 👉 Skills
 </a>
 
-<a href="projects.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #0000EE;">
+<a href="projects.html" style="display: block; font-size: 24px; font-weight: bold; margin: 15px 0; text-decoration: underline; color: #00000EE;">
 👉 Projects
 </a>
 
@@ -49,7 +49,4 @@ Alongside CFD work, I am currently exploring hybrid physics–machine-learning a
 </div>
 
 
-## **Contact**
 
-- Email: ammaritra@gmail.com, aritra.mukherjee@ntnu.no
-- LinkedIn: [link](https://www.linkedin.com/in/aritra-mukherjee-35268b214/)
