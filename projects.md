@@ -11,6 +11,11 @@
   Interested in my work? Check my <a href="skills_education.html">Skills & Education</a> or <a href="contact.html">Contact me</a> to discuss potential collaboration.
 </p>
 
+<h3 style="margin-top:40px; margin-bottom:15px; font-size:20px;">
+  Multiphase Lattice Boltzmann Solver for Phase-Change on Structured Surfaces
+</h3>
+
+
 <div style="display:flex; flex-wrap:wrap; margin-bottom:40px; align-items:flex-start;">
   <!-- Text column -->
   <div style="flex:1; min-width:250px; padding-right:20px;">
