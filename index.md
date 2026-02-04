@@ -32,6 +32,25 @@ Alongside CFD work, I am currently exploring hybrid physics–machine-learning a
 👉 [Projects](projects.html) 
 👉 [Publications](publications.html) 
 
+<div style="text-align: center; margin-top: 40px;">
+
+<a href="skills_education.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+👉 Skills & Education
+</a>
+
+<a href="projects.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+👉 Projects
+</a>
+
+<a href="publications.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+👉 Publications
+</a>
+
+<a href="contact.html" style="display: block; font-size: 28px; margin: 20px 0; text-decoration: none; color: #0366d6;">
+👉 Contact
+</a>
+
+</div>
 
 ## **Contact**
 
