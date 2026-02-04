@@ -30,9 +30,9 @@
   <!-- Image column -->
   <div style="flex:1; min-width:250px;">
     <figure>
-      <img src="assets/film_boiling(1).gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+      <img src="assets/film_boil(1).gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
       <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
-        Boiling curve in surfacs with different wettability
+        Film boiling from a plain surface
       </figcaption>
     </figure>
   </div>
