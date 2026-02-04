@@ -64,7 +64,7 @@
 </div>
 
 <h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
-  Development of a LB Diffused Interface solver for multiphase flow
+  Development of a phase-field LB solver for multiphase flow
 </h3>
 
 
@@ -93,7 +93,7 @@
 
 
 <h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
-  Multiphase Lattice Boltzmann Solver Development for Phase-Change on Structured Surfaces
+  Multiphase pseudopotential Lattice Boltzmann Solver Development for Phase-Change on Structured Surfaces
 </h3>
 
 
