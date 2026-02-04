@@ -11,6 +11,33 @@
   Interested in my work? Check my <a href="skills_education.html">Skills & Education</a> or <a href="contact.html">Contact me</a> to discuss potential collaboration.
 </p>
 
+
+<h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
+  Development of a Finite difference–based Diffused Interface phase-change solver
+</h3>
+
+
+<div style="display:flex; flex-wrap:wrap; margin-bottom:40px; align-items:flex-start;">
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px; padding-right:20px;">
+    <ul>
+      <li>Developed MPI parallelized phase-changing FDM multiphase solver based on open source code FluTAS</li>
+      <li>Worked on a diffuse interface algorithm that works accurtaely for boiling and evaporation problems </li>
+      <li>Simulated scalar transfer from mulitple bubbles for industrial gas transfer applications</li>
+    </ul>
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:1; min-width:250px;">
+    <figure>
+      <img src="assets/film_boiling(1).gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+      <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
+        Boiling curve in surfacs with different wettability
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
 <h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
   Multiphase Lattice Boltzmann Solver Development for Phase-Change on Structured Surfaces
 </h3>
