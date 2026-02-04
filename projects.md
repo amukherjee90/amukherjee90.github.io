@@ -50,6 +50,7 @@
       <li>Contributed to the OpenACC-GPU parallelized phase-field LB multiphase solver accLB</li>
       <li>Captured all bubble shapes seperately for a bubble rise problem </li>
       <li>Studied multiple droplets faliing  on a surface with different wettability</li>
+      <li>Captured on and of-axis collision of water droplets in air</li>
       <li>Implementing phase-change to the solver </li>
     </ul>
   </div>
