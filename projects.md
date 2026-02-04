@@ -39,7 +39,7 @@
 </div>
 
 <h3 style="margin-top:40px; margin-bottom:15px; font-weight:bold;font-size:20px;">
-  DNS studies of multiphase flows with mass-transfer multiple droplet/bubble in turbulent suspensions
+  DNS studies of heat and mass transfer from multiple droplet/bubble in turbulent suspensions
 </h3>
 
 
@@ -47,18 +47,17 @@
   <!-- Text column -->
   <div style="flex:1; min-width:250px; padding-right:20px;">
     <ul>
-      <li>Developed MPI parallelized phase-changing FDM multiphase solver based on open source code FluTAS</li>
-      <li>Worked on a diffuse interface algorithm that works accurtaely for boiling and evaporation problems </li>
-      <li>Simulated scalar transfer from mulitple bubbles for industrial gas transfer applications</li>
+      <li>Study of evaporation from multiple droplets of different sizes in a triperiodic channel, relevant to combustion scenarios </li>
+      <li>Study of scalar transfer from multiple rising bubbles relevant to industrial gas exchange applications, with lower and higher bubble densities (volume fractions) </li>
     </ul>
   </div>
 
   <!-- Image column -->
   <div style="flex:1; min-width:250px;">
     <figure>
-      <img src="assets/film_boil(1).gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
+      <img src="assets/12drop.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
       <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
-        Film boiling from a plain surface
+        Multiple droplet evaporating in a channel
       </figcaption>
     </figure>
   </div>
