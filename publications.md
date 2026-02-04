@@ -1,8 +1,6 @@
 [Home](index.html) | [Projects](projects.html) | [Publications](publications.html) | [Contact](contact.html)
 
 
-## **Publications**
-
 1. S. C Mishra, N Gullipalli, A Jain, A Barurah, A. Mukherjee, Analysis of hyperbolic heat conduction in 1-D planar,
 cylindrical, and spherical geometry using the lattice Boltzmann method, **International Communications in Heat and
 Mass Transfe**r, 74, 48-54 (2016).
