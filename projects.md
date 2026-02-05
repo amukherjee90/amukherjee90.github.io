@@ -52,7 +52,7 @@
     <figure>
       <img src="assets/12drop.gif" alt="Multiphase CFD" style="max-width:100%; height:auto; border-radius:6px;">
       <figcaption style="text-align:center; font-size:14px; color:#555; margin-top:5px;">
-        Multiple droplet evaporating in a channel
+        Multiple droplet evaporating in a triperiodic domain
       </figcaption>
     </figure>
   </div>
