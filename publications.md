@@ -27,19 +27,19 @@ Pardeshi, Mohan Labade, A. Mukherjee, Utkarsh Joshi, Neelesh Kharkar, Sahidul Is
 Thakre, Shravani Talekar, Mukunda Dev Behera, D Sreshtha, Manoj Khare, Akshara Kaginalkar, Naveen Kumar,
 Parth Sarathi Roy, Towards operational forest fire spread forecasting using WRF-SFIREmodel, **Remote Sensing**,
 16(13), 2480, (2024)
-10. S. Z. Salimi, A. Mukherejee, M. Pelanti, L. Brandt, A low Mach number diffuse-interface model for multicomponent
+9. S. Z. Salimi, A. Mukherejee, M. Pelanti, L. Brandt, A low Mach number diffuse-interface model for multicomponent
 two-phase flows with phase change, **Journal of Computational Physics**, 523, 113683(2025)
-11. M. Lauricella, A. Tiribochhi, S. Succi, L. Brandt, A. Mukherjee, M. L Rocca, A. Montessori, Thread-safe
+10. M. Lauricella, A. Tiribochhi, S. Succi, L. Brandt, A. Mukherjee, M. L Rocca, A. Montessori, Thread-safe
 multiphase lattice Boltzmann model for droplet and bubble dynamics at high density and viscosity contrasts, **Physics
 of Fluids** 37, 072111 (2025)
-12. L. Weber, A. Mukherjee, L. Brandt, A. G. Class, A consistent and scalable frame-work suitable for boiling flows
+11. L. Weber, A. Mukherjee, L. Brandt, A. G. Class, A consistent and scalable frame-work suitable for boiling flows
 using the conservative diffuse interface method, **Journal of Computational Physics**, 551, 114680(2026)
-13. A. Montessori, M. Lauricella, A. Mukherjee, L. Brandt, Breakdown of Kolmogorov Scaling and Modified Energy
-Transfer in Bubble-Laden Turbulence(Accepted, **Physical Review Fluids**)
+12. A. Montessori, M. Lauricella, A. Mukherjee, L. Brandt, Breakdown of Kolmogorov Scaling and Modified Energy
+Transfer in Bubble-Laden Turbulence, **Physical Review Fluids**, 11, 024605(2026)
+13. S. S. Chirammel,, A. Mukherjee, L. Brandt, J. Solsvik, A numerical study on mass transfer in buoyancy-driven
+bubbly flows (Accepted, **Journal of Fluid Mechanics**)
 14. S. S. Chirammel,, A. Mukherjee, S. Z. Salimi, L. Weber, A. Sharma, J. S. Murallidharan, L. Brandt, M. Pelanti, J.
 Solsvik, On Sharp and Diffuse Interface-based methods for Heat or Mass Transfer-induced Phase Change (Under
 review, Journal of Compuatational Physics)
-15. S. S. Chirammel,, A. Mukherjee, L. Brandt, J. Solsvik, A numerical study on mass transfer in buoyancy-driven
-bubbly flows (Under review, Journal of Fluid Mechanics)
-16. A. Mukherjee, S. S. Chirammel, J. Solsvik, L. Brandt, Direct numerical simulation of multiple droplet evaporation
+15. A. Mukherjee, S. S. Chirammel, J. Solsvik, L. Brandt, Direct numerical simulation of multiple droplet evaporation
 in turbulent suspension (in preparation)
